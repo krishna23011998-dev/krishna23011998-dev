@@ -16,8 +16,10 @@ AI agents, n8n workflows, Google AI Studio experiments, and intelligent automati
 ### 🔗 [Squint](https://github.com/krishna23011998-dev/Squint)
    🛍️ Social commerce platform combining TikTok-style video feeds with seamless e-commerce functionality. Built with Flutter for cross-platform shopping experiences.
 
-## 🌐 Connect with Me:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-pinupa)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishna2311998)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/krishna23011998-dev)
 
 ## 💻 Tech Stack:
 
