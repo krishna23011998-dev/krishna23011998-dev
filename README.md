@@ -10,7 +10,7 @@
 ### 🔗 [MuleSoft-API-Projects](https://github.com/krishna23011998-dev/MuleSoft-API-Projects)
 Collection of MuleSoft API integration examples, DataWeave transformations, and enterprise integration patterns
 
-###  [AI-Automations/Workflows](https://github.com/krishna23011998-dev/AI-Automation-Workflows)
+### 🔗 [AI-Automations/Workflows](https://github.com/krishna23011998-dev/AI-Automation-Workflows)
 AI agents, n8n workflows, Google AI Studio experiments, and intelligent automation solutions
 
 ## 🌐 Connect with Me:
