@@ -5,6 +5,14 @@
 🔥 Passionate about: MuleSoft APIs, AI Agents, Automation & Integration Solutions
 🤖 Exploring: Vertex AI, Agent Fabric, n8n, and intelligent automation workflows
 
+## 🚀 Featured Projects:
+
+### 🔗 [MuleSoft-API-Projects](https://github.com/krishna23011998-dev/MuleSoft-API-Projects)
+Collection of MuleSoft API integration examples, DataWeave transformations, and enterprise integration patterns
+
+### 🤖 [AI-Automation-Workflows](https://github.com/krishna23011998-dev/AI-Automation-Workflows)
+AI agents, n8n workflows, Google AI Studio experiments, and intelligent automation solutions
+
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-pinupa)
 
